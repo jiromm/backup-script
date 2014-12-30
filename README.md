@@ -1,4 +1,4 @@
-backup-script
+Simple Backup Script
 =============
 
 Simple script to backup web files and db
